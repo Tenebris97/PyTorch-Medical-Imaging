@@ -1,4 +1,4 @@
-# PyTorch Medical Imaging Notebookes
+# PyTorch Lightning Medical Imaging Notebookes
 ‼️**NOTE: If notebook rendering takes too long or fails, simply put the link in [nbviewer](https://nbviewer.org/)**‼️
 
 Last updated on September 5, 2023
