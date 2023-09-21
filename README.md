@@ -12,7 +12,7 @@ Last updated on September 5, 2023
 + Fine-tuned on EfficientNet_B1
 + 5-Fold cross validation
 ***
-## [PyTorch_ODIR_Challenge_Multilabel]()
+## [PyTorch_ODIR_Challenge_Multilabel](https://github.com/Tenebris97/PyTorch-Medical-Imaging/blob/main/PyTorch_ODIR_Challenge_Multilabel.ipynb)
 + [Dataset & Challenge](https://odir2019.grand-challenge.org/)
 + Pre-trained model for fine-tuning: EfficientNet-B1 from [timm library](https://github.com/rwightman/pytorch-image-models/)
 + Multilabel Classification
